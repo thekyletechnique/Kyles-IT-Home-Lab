@@ -4,6 +4,10 @@
 
 This project demonstrates my experience setting up and managing a Windows Server Active Directory environment inside a virtual machine.
 
+## Video Walkthrough
+
+[Watch the full walkthrough on YouTube](https://youtu.be/NP7iOtvjuz0)
+
 ## Skills Demonstrated
 
 - Installed Active Directory Domain Services (AD DS)
@@ -14,13 +18,15 @@ This project demonstrates my experience setting up and managing a Windows Server
 - Assigned users to groups
 - Managed domain users with Active Directory Users and Computers
 - Created and managed GPOs
-- Implemented a ticketing system (finalizing)
+- Finalized a ticketing system integration (osTicket, integrated with Active Directory via LDAP)
+- Ran through a full ticket lifecycle end-to-end — creation, triage, resolution, and closure
 
 ## Environment
 
 - Windows Server 2022
-- VMWare
+- VMware
 - Active Directory Domain Services
 
-- ## Screenshots
+## Screenshots
+
 See the uploaded screenshots in this repository.
