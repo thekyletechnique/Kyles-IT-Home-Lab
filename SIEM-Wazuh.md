@@ -1,6 +1,6 @@
 # SIEM Deployment (Wazuh)
 
-[← Back to main README](../README.md)
+[← Back to main README](README.md)
 
 ## Overview
 
