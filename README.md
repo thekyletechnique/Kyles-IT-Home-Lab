@@ -4,9 +4,9 @@
 
 This project demonstrates my hands-on experience building and expanding an enterprise-style IT environment from scratch inside VMware Workstation — starting with a Windows Server Active Directory domain and growing into a full identity, service desk, and security monitoring stack. Each phase below builds directly on the last, on the same set of VMs.
 
-## Video Walkthrough
+## Video Walkthrough (Only covers AD setup)
 
-[Watch the full walkthrough on YouTube](https://www.youtube.com/)
+[Watch the full walkthrough on YouTube](https://www.youtube.com/) 
 
 ## Environment
 
