@@ -49,7 +49,7 @@ Deployed Wazuh as a centralized SIEM to monitor the Active Directory and osTicke
 - Log-based detection and event triage
 - Linux disk management and network troubleshooting (LVM, netplan, routing)
 
-📄 [Full write-up: SIEM Deployment (Wazuh)](Documentation/SIEM-Wazuh.md)
+📄 [Full write-up: SIEM Deployment (Wazuh)](SIEM-Wazuh.md)
 
 ### Phase 4: Hybrid Identity (Microsoft Entra ID) — *planned*
 Next up: connecting the on-premises Active Directory domain to Microsoft Entra ID via hybrid sync, layering in Conditional Access policies, and feeding Entra sign-in/audit logs into the existing Wazuh SIEM for a full identity + detection scenario.
