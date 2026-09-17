@@ -6,7 +6,7 @@ This project demonstrates my hands-on experience building and expanding an enter
 
 ## Video Walkthrough (Only covers AD setup)
 
-[Watch the full walkthrough on YouTube]((https://youtu.be/NP7iOtvjuz0)) 
+[Watch the full walkthrough on YouTube](https://youtu.be/NP7iOtvjuz0)
 
 ## Environment
 
