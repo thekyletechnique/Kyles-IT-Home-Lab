@@ -1,4 +1,4 @@
-# SIEM Deployment (Wazuh)
+# SIEM Deployment & Detection (Wazuh)
 
 [← Back to main README](README.md)
 
